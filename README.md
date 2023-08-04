@@ -2,6 +2,8 @@
 
 ### 背景
 学习GatewayWorker的使用,搭建聊天系统
+### 前提
+先部署[GatewayWorker服务端](https://github.com/zero8coder/GatewayDemo)
 ### 安装
 `.env` 文件 配置数据库
 ```angular2html 
